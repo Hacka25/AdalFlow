@@ -3,7 +3,7 @@
 name = "adalflow-project"
 version = "0.1.0"
 description = "A project to develop and test the adalflow library"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Yours Name <your.email@example.com>"]
 license = "MIT"
 
 packages = [
