@@ -1,6 +1,3 @@
-**Technical Writing and Software Architecture**
-
-As a technical writer and software architect, my task is to generate a comprehensive and accurate documentation for the SylphAI, Inc. project.
 
 **Project Overview**
 
