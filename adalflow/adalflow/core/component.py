@@ -1,4 +1,4 @@
-"""Base building block for building LLM task pipelines.
+"""Base building block for building LLM task pipeline.
 It handles states recursively, such as training, components, parameters recursively along with serialization and deserialization.
 """
 
